@@ -15,4 +15,4 @@ Repositório criado para armazenar os exercícios do curso **HTML, CSS e JavaScr
 ## 🛠️ Como usar
 1. Faça o clone do repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/mutioloco-pixel/Curso_Senai
